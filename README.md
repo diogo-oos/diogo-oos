@@ -5,7 +5,7 @@
 - 📫 Como entrar em contato comigo:<br>
 email: diogomarquesbhdm19@gmai.com
 <br>linkedin: www.linkedin.com/in/diogo-m-gomes-12987a1b5
-<br>instagram: @ gmarques.diogo
+<br>instagram: @gmarques.diogo
 
 -------------
 
