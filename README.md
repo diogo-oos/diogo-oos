@@ -11,8 +11,8 @@
 - 💞️ I’m looking to collaborate on projects that help me and others to grow as people and professionals. :)
 <div align="center">
   <a href="https://github.com/diogo-oos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diogo-oos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogo-oos&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=diogo-oos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogo-oos&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="dio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
