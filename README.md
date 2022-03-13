@@ -1,4 +1,31 @@
-- 👋 Olá, sou @ diogo-oos
+## 👋 Olá, sou @ diogo-oos
+<div>
+  <a href="https://github.com/diogo-oos">  
+    
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 - 👀 Estou interessado em me tornar um desenvolvedor, gosto muito da área de TI, embora às vezes me estresse um pouco haha. Estou começando a aprender agora. Aceito dicas! :)
 - 🌱 Atualmente estou cursando o segundo período de Sistemas de Informação na PUC Minas, estou aprendendo muito participando de projetos envolvendo desenvolvimento web e também Java, junto com muita lógica. :)
 - 💞️ Estou procurando colaborar em projetos que ajudem a mim e a outros a crescer como pessoas e profissionais. :)
