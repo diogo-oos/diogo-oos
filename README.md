@@ -1,14 +1,14 @@
 ## 👋 Olá, sou diogo-oos
-- 👀 Estou interessado em me tornar um desenvolvedor, gosto muito da área de TI, embora às vezes me estresse um pouco haha. Estou começando a aprender agora. Aceito dicas! :)
-- 🌱 Atualmente estou cursando o segundo período de Sistemas de Informação na PUC Minas, estou aprendendo muito participando de projetos envolvendo desenvolvimento web e também Java, junto com muita lógica. :)
+- 👀 Sou um desenvolvedor web full-stack, gosto muito da área de TI, embora às vezes me estresse um pouco haha. Fiz estágio por um ano, e trabalho como júnior a um ano também, totalizando dois anos na área :)
+- 🌱 Atualmente estou cursando o oitavo período de Sistemas de Informação na PUC Minas, estou aprendendo muito participando de projetos envolvendo desenvolvimento web e APIs com ASP NET Core, junto com muita lógica. :)
 - 💞️ Estou procurando colaborar em projetos que ajudem a mim e a outros a crescer como pessoas e profissionais. :)
   
 ##
 
-- 👋 Hi, I’m diogo-oos
-- 👀 I’m interested in becoming a developer, i really like the IT area despite sometimes stressing me out a little bit haha. I'm starting to learn now. I accept tips! :)
-- 🌱 I'm currently studying the first period of Information Systems at PUC Minas, I'm learning a lot participating in projects involving web development and also Java, along with a lot of logic. :)
-- 💞️ I’m looking to collaborate on projects that help me and others to grow as people and professionals. :)
+## 👋 Hi, I'm diogo-oos
+- 👀 I'm a full-stack web developer, I really like the IT area, although sometimes I get a little stressed haha. I did an internship for a year, and I've been working as a junior for a year too, totaling two years in the area :)
+- 🌱 I'm currently studying the eighth period of Information Systems at PUC Minas, I'm learning a lot by participating in projects involving web development and APIs with ASP NET Core, along with a lot of logic. :)
+- 💞️ I'm looking to collaborate on projects that help me and others grow as people and professionals. :)
 <div align="center">
   <a href="https://github.com/diogo-oos">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=diogo-oos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
